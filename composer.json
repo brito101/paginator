@@ -1,0 +1,27 @@
+{
+  "name": "brito101/paginator",
+  "description": "Simple component to generate pagination in PHP web applications",
+  "keywords": [
+    "brito101",
+    "Rodrigo Brito",
+    "Pagination",
+    "Paginator"
+  ],
+  "homepage": "http://www.rodrigobrito.dev.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rodrigo Brito",
+      "email": "contato@rodrigobrito.dev.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Brito101\\Paginator\\": "src"
+    }
+  }
+}
